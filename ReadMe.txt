@@ -1,0 +1,1 @@
+This is the readme file for Funds Management System for welfre organisation
